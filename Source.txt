@@ -1,0 +1,19 @@
+....
+Adam	Bill
+Adam	Corey
+Adam	Dana
+Bill	Corey
+Bill	Dana
+Corey	Dana
+....
+Ethan	Francis
+Ethan	Gil
+Ethan	Herb
+Ethan	Itay
+Francis	Gil
+Francis	Herb
+Francis	Itay
+Herb	Gil
+Herb	Itay
+Gil	Itay
+...
